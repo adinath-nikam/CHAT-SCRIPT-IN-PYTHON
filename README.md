@@ -1,4 +1,4 @@
-(https://forthebadge.com/images/badges/built-for-android.svg)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 # CHAT-SCRIPT-IN-PYTHON
 Chatting Script wriiten in Python using NetCat Program
@@ -9,9 +9,4 @@ python main.py
 
 ## Output
 
-<img width="80%" src="./output2.png"/>
-
-<img width="80%" src="./output1.png"/>
-
-<img width="80%" src="./output3.png"/>
-
+<img width="150%" src="./output.png"/>
