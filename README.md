@@ -7,4 +7,4 @@ python main.py
 
 ## Output
 
-<img width="50%" src="./output.png"/>
+<img width="150%" src="./output.png"/>
